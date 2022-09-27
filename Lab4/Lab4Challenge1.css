@@ -9,6 +9,8 @@ body{
 
 p{
   color:red;
+  margin:10px 10px 10px 10px;
+  border:green 3px dashed;
 }
 
 img{
