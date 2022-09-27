@@ -15,6 +15,6 @@ p{
 
 img{
   margin:auto;
-  border:black dashed;
+  border:yellow 2px dashed;
   padding:inherit;
 }
