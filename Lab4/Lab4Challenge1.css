@@ -2,8 +2,8 @@ body{
   background-color: blue
 }
 
-div{
-
+.firstdiv{
+  margin:10px 20px 10px 20px;
 }
 
 p{
