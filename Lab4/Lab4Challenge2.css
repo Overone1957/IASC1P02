@@ -18,3 +18,8 @@
   color: orange;
   font-size: 30px;
 }
+
+#spanone{
+  color: red;
+  text-decoration: overline;
+}
