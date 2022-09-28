@@ -27,4 +27,5 @@
 #spantwo{
   color: yellow;
   font-style: italic;
+  text-transform: uppercase;
 }
