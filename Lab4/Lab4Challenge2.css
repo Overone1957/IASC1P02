@@ -27,7 +27,7 @@
 
 #spanone{
   color: red;
-  align-self: flex-start;
+  font-variant-position: super;
 }
 
 #spantwo{
