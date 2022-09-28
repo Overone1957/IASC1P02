@@ -26,7 +26,7 @@
 }
 
 #spanone{
-  display: block;
+  display: inline-block;
   color: red;
 }
 
