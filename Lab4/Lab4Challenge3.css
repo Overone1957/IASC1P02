@@ -1,4 +1,7 @@
 .divone{
   background-color: green;
-  margin: 10px 0 20px 0;
+}
+
+.divtwo{
+  border: black 2px dotted;
 }
