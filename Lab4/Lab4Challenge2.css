@@ -15,7 +15,7 @@
 }
 
 .pthree{
-  position: relative;
+  position: absolute;
   color: orange;
   font-size: 30px;
 }
@@ -28,7 +28,7 @@
 
 #spanone{
   color: red;
-  position: absolute;
+  position: relative;
   height: 20px;
 }
 
