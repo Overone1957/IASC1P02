@@ -3,5 +3,6 @@
 }
 
 .divtwo{
-  border: black 2px dotted;
+  border: black 3px dotted;
+  margin:0 20px 0 20px;
 }
