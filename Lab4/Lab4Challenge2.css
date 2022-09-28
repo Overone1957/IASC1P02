@@ -25,8 +25,8 @@
   color: purple;
 }
 
-.spanone{
-  padding-bottom: 20px;
+#spanone{
+  vertical-align: super;
   color: red;
 }
 
