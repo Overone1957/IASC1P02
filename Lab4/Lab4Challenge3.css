@@ -6,3 +6,17 @@
   border: black 4px dotted;
   margin:0 20px 0 20px;
 }
+
+.pone{
+  margin: 0 10px 0 10px;
+  color: red;
+}
+
+.ptwo{
+  margin: 0 10px 0 10px;
+  color:grey;
+}
+
+.pthree{
+  color: purple;
+}
