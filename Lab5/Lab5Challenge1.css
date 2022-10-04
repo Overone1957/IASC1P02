@@ -17,10 +17,8 @@
 }
 
 #body{
-	float:left;
 	height: 500px;
 	background-color:green;
-	padding:5px;
 }
 
 #bottom{
