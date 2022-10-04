@@ -16,8 +16,7 @@
 	background-color:red;
 	height:50px;
 	text-align:center;
-	position:relative;
-	top:5;
+	vertical-align:middle;
 }
 
 #body{
