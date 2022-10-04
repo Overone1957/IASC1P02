@@ -11,30 +11,22 @@
 }
 
 #header{
+	background-color:red;
 	height:50px;
 	text-align:center;
-
 }
 
 #body{
 	float:left;
 	width:190px;
 	height: 500px;
-	background-color:#FFFFCC;
-	padding:5px;
-
-}
-#rightbody{
-	float:right;
-	width:540px;
-	height:500px;
-	background:#FFFF99;
+	background-color:green;
 	padding:5px;
 }
 
 #bottom{
+	background-color:blue;
 	text-align:center;
 	height:50px;
 	clear:both;
-
 }
