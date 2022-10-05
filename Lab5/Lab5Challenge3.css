@@ -13,6 +13,7 @@ body{
 #wrapper2{
 	width:1300px;
 	height:600px;
+	margin:0 auto;
 	margin-top:10px;
 	background-color:green;
 }
