@@ -16,8 +16,10 @@
 	background-color:red;
 	height:50px;
 	text-align:center;
-	position:relative;
-	top:2px;
+}
+
+h2{
+	padding-top:1px;
 }
 
 #body{
