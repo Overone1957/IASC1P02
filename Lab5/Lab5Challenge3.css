@@ -3,58 +3,45 @@ body{
 	background-color:black;
 }
 
-#wrapper{
-	width:1000px;
-	height:722px;
+#wrapper1{
+	width:1500px;
+	height:700px;
 	margin:0 auto;
-	border-top:0;
+	background-color:white;
+}
+
+#wrapper2{
+	width:1400px;
 	background-color:green;
 }
 
-#header{
-	background-color:red;
-	height:70px;
-	text-align:center;
-	margin:0 auto;
-	border-top:0;
-	width:60%;
-
-}
-
 #leftbody{
-	height: 70px;
-	background-color:pink;
+	height:100px;
+	width:100px;
+	background-color:blue;
 	margin:0 auto;
 	margin-left:20%;
+	margin-right:20%;
 	padding-top:10px;
 	float:left;
-	width:20%;
 }
 
 #rightbody{
-	height:70px;
-	background-color:orange;
+	height:100px;
+	width:100px;
+	background-color:red;
 	margin:0 auto;
 	margin-right:20%;
+	margin-left:20%;
 	padding-top:10px;
 	float:right;
-	width:40%;
 }
 
 #anotherbody{
-	height:600px;
-	background-color:blue;
-	width:60%;
-	margin:0 auto;
-}
-
-#bottom{
+	height:100px;
+	width:100px;
 	background-color:yellow;
-	height:50px;
 	margin:0 auto;
-	width:60%;
-}
-
-h4{
-	margin-top:1px;
+	margin-left:40%;
+	margin-right:40%;
 }
