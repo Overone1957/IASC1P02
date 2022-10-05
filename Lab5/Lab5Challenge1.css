@@ -18,7 +18,11 @@
 	text-align:center;
 }
 
-h2, p{
+h2{
+	padding-top:10px;
+}
+
+p{
 	padding-top:10px;
 }
 
