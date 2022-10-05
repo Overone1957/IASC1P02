@@ -16,6 +16,8 @@
 	background-color:red;
 	height:70px;
 	text-align:center;
+	margin:0;
+	padding:0;
 }
 
 h2{
@@ -29,9 +31,13 @@ p{
 #body{
 	height: 500px;
 	background-color:green;
+	margin:0;
+	padding:0;
 }
 
 #bottom{
 	background-color:blue;
 	height:70px;
+	margin:0;
+	padding:0;
 }
