@@ -39,7 +39,7 @@ body{
 	margin-right:20%;
 	margin-left:20%;
 	float:right;
-	display:inline;
+	display:inline-block;
 }
 
 #anotherbody{
