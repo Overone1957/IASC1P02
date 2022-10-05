@@ -16,7 +16,7 @@
 	background-color:red;
 	height:70px;
 	text-align:center;
-	margin:0 auto;
+	display:block;
 }
 
 h2,p{
@@ -27,11 +27,11 @@ h2,p{
 #body{
 	height: 500px;
 	background-color:green;
-	margin:0 auto;
+	display:block;
 }
 
 #bottom{
 	background-color:blue;
 	height:50px;
-	margin:0 auto;
+	display:block;
 }
