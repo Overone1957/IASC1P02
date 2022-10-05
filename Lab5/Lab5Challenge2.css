@@ -5,7 +5,7 @@ body{
 
 #wrapper{
 	width:1000px;
-	height:700px;
+	height:790px;
 	margin:0 auto;
 	background-color:green;
 }
@@ -39,7 +39,7 @@ body{
 }
 
 #anotherbody{
-	height:510px;
+	height:600px;
 	background-color:blue;
 	padding-top:1px;
 	width:60%;
