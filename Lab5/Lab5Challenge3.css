@@ -4,15 +4,15 @@ body{
 }
 
 #wrapper1{
-	width:1400px;
+	width:1000px;
 	height:700px;
 	margin:0 auto;
 	background-color:white;
 }
 
 #wrapper2{
-	width:1300px;
-	height:600px;
+	width:800px;
+	height:400px;
 	margin:0 auto;
 	margin-top:10px;
 	background-color:green;
