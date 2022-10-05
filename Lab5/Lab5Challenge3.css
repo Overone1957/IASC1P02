@@ -11,8 +11,9 @@ body{
 }
 
 #wrapper2{
-	width:1400px;
-	height:700px;
+	width:1300px;
+	height:600px;
+	margin-top:10px;
 	background-color:green;
 }
 
