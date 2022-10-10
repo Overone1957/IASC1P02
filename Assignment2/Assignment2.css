@@ -1,3 +1,6 @@
 .colored{
-  color: red;
+  color:red;
+  font-size:50px;
+  font-family:Arial,Verdana,sans-serif;
+  text-transform:uppercase;
 }
