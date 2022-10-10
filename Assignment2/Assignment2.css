@@ -21,6 +21,8 @@
 }
 
 #fixed{
+  width:200px;
+  height:200px;
   position:fixed;
   right:0px;
   top:0px;
@@ -28,7 +30,6 @@
   border:black 3px dashed;
   padding-top: 5px;
   padding-right:5px;
-  content: normal;
 }
 
 .absolute{
