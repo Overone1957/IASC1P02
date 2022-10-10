@@ -21,5 +21,6 @@
 
 #fixed{
   position:fixed;
-  left:auto;
+  right:0px;
+  top:0px;
 }
