@@ -1,6 +1,15 @@
 .colored{
   color:red;
-  font-size:40px;
+}
+
+.sized{
+  font-size:30px;
+}
+
+.font{
   font-family:Arial,Verdana,sans-serif;
+}
+
+.transform{
   text-transform:uppercase;
 }
