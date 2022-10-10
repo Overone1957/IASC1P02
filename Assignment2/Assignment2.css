@@ -24,3 +24,12 @@
   right:0px;
   top:0px;
 }
+
+.absolute{
+  position:relative;
+}
+
+.relative{
+  position:absolute;
+  top:50px;
+}
