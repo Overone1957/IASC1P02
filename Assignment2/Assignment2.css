@@ -36,6 +36,6 @@
   right:0px;
 }
 
-ol li{
+ol li, ul li{
   color:blue;
 }
