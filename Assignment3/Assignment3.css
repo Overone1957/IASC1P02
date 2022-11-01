@@ -51,7 +51,7 @@ body{
 #ProductTwo{
   width:200px;
   height:300px;
-  float:auto;
+  float:left;
   background-color: pink;
 }
 
