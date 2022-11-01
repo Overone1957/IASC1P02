@@ -11,53 +11,56 @@ body{
 
 #headerWrapper{
   width:810px;
-  height:800px;
+  height:100px;
   margin-bottom:50px;
 }
 
 #headerMid{
-  float:left;
-  width:205px;
-  height:800px;
+  float:right;
+  width:200px;
+  height:80px;
   background-color:grey;
 }
 
 #headerRight{
   float:left;
-  width:400px;
-  height:800px;
+  width:100px;
+  height:80px;
   background-color: red;
 }
 
 #newsWrapper{
-  float:right;
-  width:205px;
-  height:800px;
+  width:810px;
+  height:400px;
   background-color:yellow;
 }
 
 #productWrapper{
-  width:400px;
-  height:100px;
+  width:810px;
+  height:400px;
   background-color: purple;
 }
 
 #ProductOne{
-  width:400px;
-  height:290px;
+  width:200px;
+  height:300px;
   background-color: blue;
 }
 
 #ProductTwo{
-  width:400px;
-  height:350px;
+  width:200px;
+  height:300px;
   background-color: pink;
 }
 
 #ProductThree{
-
+  width:200px;
+  height:300px;
+  background-color: green;
 }
 
 #footerWrapper{
-  
+  width:810px;
+  height:100px;
+  background-color: orange;
 }
