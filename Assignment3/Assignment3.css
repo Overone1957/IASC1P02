@@ -17,14 +17,15 @@ body{
 }
 
 #headerMid{
-  float:right;
+  float:left;
+  margin-left:300px;
   width:200px;
   height:80px;
   background-color:grey;
 }
 
 #headerRight{
-  float:left;
+  float:right;
   width:100px;
   height:80px;
   background-color: red;
