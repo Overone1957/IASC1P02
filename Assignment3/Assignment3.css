@@ -15,41 +15,49 @@ body{
   margin-bottom:50px;
 }
 
-#headerLeft{
+#headerMid{
   float:left;
   width:205px;
   height:800px;
   background-color:grey;
 }
 
-#headerMid{
+#headerRight{
   float:left;
   width:400px;
   height:800px;
   background-color: red;
 }
 
-#headerRight{
+#newsWrapper{
   float:right;
   width:205px;
   height:800px;
   background-color:yellow;
 }
 
-#midTop{
+#productWrapper{
   width:400px;
   height:100px;
   background-color: purple;
 }
 
-#midMid{
+#ProductOne{
   width:400px;
   height:290px;
   background-color: blue;
 }
 
-#midBottom{
+#ProductTwo{
   width:400px;
   height:350px;
   background-color: pink;
+}
+
+#ProductThree{
+
+}
+
+#footerWrapper{
+  
 }
