@@ -49,14 +49,14 @@ body{
 }
 
 #ProductOne{
-  width:200px;
+  width:250px;
   height:300px;
   float:left;
   background-color: blue;
 }
 
 #ProductTwo{
-  width:200px;
+  width:250px;
   height:300px;
   float:left;
   margin-left:100px;
@@ -64,7 +64,7 @@ body{
 }
 
 #ProductThree{
-  width:200px;
+  width:250px;
   height:300px;
   float:right;
   background-color: green;
