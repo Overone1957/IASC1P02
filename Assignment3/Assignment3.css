@@ -66,16 +66,16 @@ body{
 
 #ProductOne{
   text-align:center;
-  width:250px;
-  height:300px;
+  width:200px;
+  height:250px;
   float:left;
   background-color: blue;
 }
 
 #ProductTwo{
   text-align:center;
-  width:250px;
-  height:300px;
+  width:200px;
+  height:250px;
   float:left;
   margin-left:20px;
   background-color: pink;
@@ -83,14 +83,18 @@ body{
 
 #ProductThree{
   text-align:center;
-  width:250px;
-  height:300px;
-  float:right;
+  width:200px;
+  height:250px;
+  float:left;
   background-color: green;
 }
 
 #ProductFour{
-
+  text-align:center;
+  width:200px;
+  height:250px;
+  float:right;
+  background-color: brown;
 }
 
 #footerWrapper{
