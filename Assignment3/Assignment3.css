@@ -47,14 +47,16 @@ body{
 }
 
 #SearchWrapper{
-  width:810px;
-  height:300px;
+  float:left;
+  width:250px;
+  height:600px;
   background-color:yellow;
 }
 
 #productWrapper{
-  width:790px;
-  height:350px;
+  float:right;
+  width:500px;
+  height:600px;
   margin-top:50px;
   padding-top:50px;
   padding-left:10px;
