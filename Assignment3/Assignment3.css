@@ -66,7 +66,7 @@ body{
   height:250px;
   float:left;
   margin-left:20px;
-  margin-top:20px;
+  margin-top:30px;
   background-color: blue;
 }
 
@@ -76,7 +76,7 @@ body{
   height:250px;
   float:left;
   margin-right:20px;
-  margin-top:20px;
+  margin-top:30px;
   background-color: pink;
 }
 
@@ -86,7 +86,7 @@ body{
   height:250px;
   float:left;
   margin-left:20px;
-  margin-top:20px;
+  margin-top:30px;
   background-color: green;
 }
 
@@ -96,7 +96,7 @@ body{
   height:250px;
   float:right;
   margin-right:20px;
-  margin-top:20px;
+  margin-top:30px;
   background-color: brown;
 }
 
