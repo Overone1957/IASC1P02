@@ -21,7 +21,7 @@ body{
   margin-left:50px;
   margin-top:10px;
   text-align:center;
-  width:200px;
+  width:100px;
   height:80px;
   background-color:grey;
 }
@@ -31,7 +31,7 @@ body{
   margin-left:100px;
   margin-top:10px;
   text-align:center;
-  width:300px;
+  width:350px;
   height:80px;
   background-color:violet;
 }
@@ -41,7 +41,7 @@ body{
   margin-top:10px;
   margin-right:50px;
   text-align:center;
-  width:200px;
+  width:100px;
   height:80px;
   background-color: red;
 }
