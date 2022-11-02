@@ -101,8 +101,8 @@ body{
 }
 
 #footerWrapper{
-  clear:both;
   margin-top:30px;
+  clear:both;
   width:810px;
   height:100px;
   background-color: orange;
