@@ -38,6 +38,7 @@ body{
 
 #headerRight{
   float:right;
+  margin-top:10px;
   margin-right:50px;
   text-align:center;
   width:100px;
