@@ -53,7 +53,7 @@ body{
 }
 
 #ProductOne{
-
+  text-align:center;
   width:250px;
   height:300px;
   float:left;
@@ -61,6 +61,7 @@ body{
 }
 
 #ProductTwo{
+  text-align:center;
   width:250px;
   height:300px;
   float:left;
@@ -69,6 +70,7 @@ body{
 }
 
 #ProductThree{
+  text-align:center;
   width:250px;
   height:300px;
   float:right;
