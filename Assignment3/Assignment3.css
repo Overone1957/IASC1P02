@@ -53,14 +53,14 @@ body{
 }
 
 #ProductOne{
-  width:240px;
+  width:250px;
   height:300px;
   float:left;
   background-color: blue;
 }
 
 #ProductTwo{
-  width:240px;
+  width:250px;
   height:300px;
   float:left;
   margin-left:30px;
@@ -68,7 +68,7 @@ body{
 }
 
 #ProductThree{
-  width:240px;
+  width:250px;
   height:300px;
   float:right;
   background-color: green;
