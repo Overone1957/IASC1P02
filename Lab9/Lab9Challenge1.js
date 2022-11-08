@@ -1,6 +1,7 @@
 function stopTime(){
-  var start = new Date(document.getElementById('start').value);
-  var stop = new Date(document.getElementById('stop').value);
+  var start = new Date;
+  var stop = new Date;
+  start.getTime()
   var output = stop - start;
   alert("You have been on the page for: "+output);
 }
