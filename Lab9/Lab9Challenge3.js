@@ -1,6 +1,6 @@
 function add(){
-  var number1 = Number(document.getElementsById('num1').value);
-  var number2 = Number(document.getElementsById('num2').value);
+  var number1 = Number(document.getElementById('num1').value);
+  var number2 = Number(document.getElementById('num2').value);
   var output = number1 + number2;
-  var number3 = Number(document.getElementsById('output').innerHTML = output);
+  document.getElementById('output').innerHTML = output;
 }
