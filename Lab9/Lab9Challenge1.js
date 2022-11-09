@@ -1,10 +1,9 @@
 function stopTime(){
   var start = new Date();
   console.log(start);
-  doSomethingForAlongTime();
   var stop = new Date();
   console.log(stop);
-  var output = Math.floor(stop.getTime() - start.getTime());
+  var output = Math.round((stop.getTime() - start.getTime())/600);
   console.log(output);
   alert("You have been on the page for: "+output+" seconds");
 }
