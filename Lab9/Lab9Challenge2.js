@@ -3,7 +3,5 @@ console.log(input);
 var today = new Date();
 var year = today.getFullYear();
 console.log(year);
-function{
-  var birth = Number(year) - Number(input);
-  document.getElementById('birthyear').innerHTML = birth;
-}
+var birth = Number(year) - Number(input);
+document.getElementById('birthyear').innerHTML = birth;
