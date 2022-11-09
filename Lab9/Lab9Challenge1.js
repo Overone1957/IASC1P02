@@ -3,5 +3,5 @@ function stopTime(){
   var stop = new Date();
   var output = stop.getTime() - start.getTime();
   var seconds = Math.floor(output.getTime() / 600);
-  alert("You have been on the page for: "+seconds);
+  alert("You have been on the page for: "+seconds+" seconds");
 }
