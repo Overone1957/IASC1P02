@@ -3,9 +3,7 @@ function stopTime(){
   console.log(start);
   var stop = new Date();
   console.log(stop);
-  var output = stop.getTime() - start.getTime();
+  var output = Math.floor((stop.getTime() - start.getTime()) / 600);
   console.log(output);
-  var second = Math.floor(output.getTime() / 600);
-  console.log(second);
-  alert("You have been on the page for: "+second+" seconds");
+  alert("You have been on the page for: "+output+" seconds");
 }
