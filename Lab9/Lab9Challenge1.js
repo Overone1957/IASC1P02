@@ -6,6 +6,5 @@ function stopTime(){
   var second = start.getSecond();
   console.log(second)
   var output = stop - start;
-  document.getElementById().innerHTML =
   alert("You have been on the page for: "+output);
 }
