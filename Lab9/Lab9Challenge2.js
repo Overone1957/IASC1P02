@@ -1,3 +1,4 @@
+prompt("What is your age?")；
 var input=window.prompt("What is your age?");
 console.log(typeof);
 var year = getFullYear();
