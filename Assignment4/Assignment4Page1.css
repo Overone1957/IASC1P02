@@ -92,13 +92,13 @@ img{
 }
 
 #NewsWrapper{
-  float:left;
-  width:860px;
+  width:850px;
   height:300px;
   margin-left:50px;
   margin-right:50px;
   margin-bottom:10px;
-  padding-bottom:10px;
+  padding-top:10px;
+  padding-left:10px;
   background-color:purple;
 }
 
@@ -106,7 +106,7 @@ img{
   float:left;
   width:250px;
   height:230px;
-  margin-left:30px;
+  margin-left:20px;
   background-color:yellow;
 }
 
@@ -127,13 +127,14 @@ img{
 }
 
 #HistoryWrapper{
-  width:860px;
+  width:850px;
   height:350px;
   margin-left:50px;
   margin-right:50px;
-  margin-top:330px;
+  margin-top:10px;
   margin-bottom:10px;
   padding-top:10px;
+  padding-left:10px;
   background-color: green;
 }
 
@@ -141,7 +142,7 @@ img{
   text-align:center;
   width:800px;
   height:130px;
-  margin-left:30px;
+  margin-left:20px;
   margin-right:30px;
   margin-top:10px;
   background-color: pink;
@@ -151,26 +152,27 @@ img{
   text-align:center;
   width:800px;
   height:130px;
-  margin-left:30px;
+  margin-left:20px;
   margin-right:30px;
   margin-top:10px;
   background-color: pink;
 }
 
 #HeroesWrapper{
-  width:860px;
+  width:850px;
   height:700px;
   margin-left:50px;
   margin-right:50px;
   margin-bottom:10px;
   padding-top:10px;
+  padding-left:10px;
   background-color: white;
 }
 
 #Tank{
   width:800px;
   height:200px;
-  margin-left:30px;
+  margin-left:20px;
   margin-right:30px;
   margin-bottom:10px;
   background-color: green;
@@ -179,7 +181,7 @@ img{
 #Damage{
   width:800px;
   height:200px;
-  margin-left:30px;
+  margin-left:20px;
   margin-right:30px;
   margin-bottom:10px;
   background-color: green;
@@ -188,16 +190,18 @@ img{
 #Support{
   width:800px;
   height:200px;
-  margin-left:30px;
+  margin-left:20px;
   margin-right:30px;
   margin-bottom:10px;
   background-color: green;
 }
 
 #FooterWrapper{
-  width:860px;
+  width:850px;
   height:100px;
   margin-left:50px;
   margin-right:50px;
+  padding-top:10px;
+  padding-left:10px;
   background-color: orange;
 }
