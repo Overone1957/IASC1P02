@@ -98,24 +98,24 @@ body{
 
 #News1{
   float:left;
-  width:240px;
-  height:260px;
+  width:230px;
+  height:230px;
   margin-left:10px;
   background-color:yellow;
 }
 
 #News2{
   float:left;
-  width:240px;
-  height:260px;
+  width:230px;
+  height:230px;
   margin-left:10px;
   background-color:yellow;
 }
 
 #News3{
   float:right;
-  width:240px;
-  height:260px;
+  width:230px;
+  height:230px;
   margin-right:10px;
   background-color:yellow;
 }
