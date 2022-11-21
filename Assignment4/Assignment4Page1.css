@@ -1,0 +1,110 @@
+body{
+  color:black;
+  background-color:black;
+}
+
+#wrapper{
+  width:810px;
+  margin:0 auto;
+  background-color:white;
+}
+
+#headerWrapper{
+  width:810px;
+  height:100px;
+  margin-bottom:50px;
+  background-color:cyan;
+}
+
+#headerLeft{
+  float:left;
+  margin-left:50px;
+  margin-top:10px;
+  text-align:center;
+  width:150px;
+  height:80px;
+  background-color:grey;
+}
+
+#headerMid{
+  float:left;
+  margin-left:60px;
+  margin-top:10px;
+  text-align:center;
+  width:350px;
+  height:80px;
+  background-color:violet;
+}
+
+#headerRight{
+  float:right;
+  margin-top:10px;
+  margin-right:50px;
+  text-align:center;
+  width:100px;
+  height:80px;
+  background-color: red;
+}
+
+#SearchWrapper{
+  float:left;
+  width:250px;
+  height:600px;
+  margin-bottom:50px;
+  background-color:yellow;
+}
+
+#productWrapper{
+  float:right;
+  width:500px;
+  height:600px;
+  margin-bottom:50px;
+  background-color: purple;
+}
+
+#ProductOne{
+  text-align:center;
+  width:200px;
+  height:255px;
+  float:left;
+  margin-left:30px;
+  margin-top:30px;
+  background-color: blue;
+}
+
+#ProductTwo{
+  text-align:center;
+  width:200px;
+  height:255px;
+  float:right;
+  margin-right:30px;
+  margin-top:30px;
+  background-color: pink;
+}
+
+#ProductThree{
+  text-align:center;
+  width:200px;
+  height:255px;
+  float:left;
+  margin-left:30px;
+  margin-top:30px;
+  background-color: green;
+}
+
+#ProductFour{
+  text-align:center;
+  width:200px;
+  height:255px;
+  float:right;
+  margin-right:30px;
+  margin-top:30px;
+  background-color: brown;
+}
+
+#footerWrapper{
+  clear:both;
+  width:810px;
+  height:100px;
+  background-color: orange;
+}
