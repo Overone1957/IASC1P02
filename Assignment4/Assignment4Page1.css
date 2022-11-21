@@ -86,11 +86,35 @@ body{
   background-color: black;
 }
 
-#SearchWrapper{
+#NewsWrapper{
   float:left;
-  width:250px;
-  height:600px;
+  width:750px;
+  height:300px;
   margin-bottom:50px;
+  background-color:purple;
+}
+
+#News1{
+  float:left;
+  width:240px;
+  height:260px;
+  margin-left:10px;
+  background-color:yellow;
+}
+
+#News2{
+  float:left;
+  width:240px;
+  height:260px;
+  margin-left:20px;
+  background-color:yellow;
+}
+
+#News3{
+  float:right;
+  width:240px;
+  height:260px;
+  margin-right:10px;
   background-color:yellow;
 }
 
