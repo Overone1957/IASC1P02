@@ -14,7 +14,7 @@ body{
   height:100px;
   margin-left:50px;
   margin-right:50px;
-  margin-bottom:50px;
+  margin-bottom:10px;
   background-color:cyan;
 }
 
@@ -92,7 +92,8 @@ body{
   height:300px;
   margin-left:50px;
   margin-right:50px;
-  margin-bottom:50px;
+  margin-bottom:10px;
+  padding-bottom:10px;
   background-color:purple;
 }
 
@@ -121,12 +122,13 @@ body{
 }
 
 #HistoryWrapper{
-  float:right;
   width:750px;
-  height:400px;
+  height:350px;
   margin-left:50px;
   margin-right:50px;
-  margin-bottom:50px;
+  margin-top:330px;
+  margin-bottom:10px;
+  padding-top:10px;
   background-color: green;
 }
 
@@ -134,8 +136,8 @@ body{
   text-align:center;
   width:700px;
   height:130px;
-  margin-left:10px;
-  margin-right:10px;
+  margin-left:20px;
+  margin-right:20px;
   margin-top:10px;
   background-color: pink;
 }
@@ -144,15 +146,53 @@ body{
   text-align:center;
   width:700px;
   height:130px;
-  margin-left:10px;
-  margin-right:10px;
+  margin-left:20px;
+  margin-right:20px;
   margin-top:10px;
   background-color: pink;
 }
 
-#footerWrapper{
-  clear:both;
-  width:810px;
+#HeroesWrapper{
+  width:750px;
+  height:700px;
+  margin-left:50px;
+  margin-right:50px;
+  margin-bottom:10px;
+  padding-top:10px;
+  background-color: white;
+}
+
+#Tank{
+  width:700px;
+  height:200px;
+  margin-left:20px;
+  margin-right:20px;
+  margin-bottom:10px;
+  background-color: green;
+}
+
+#Damage{
+  width:700px;
+  height:200px;
+  margin-left:20px;
+  margin-right:20px;
+  margin-bottom:10px;
+  background-color: green;
+}
+
+#Support{
+  width:700px;
+  height:200px;
+  margin-left:20px;
+  margin-right:20px;
+  margin-bottom:10px;
+  background-color: green;
+}
+
+#FooterWrapper{
+  width:750px;
   height:100px;
+  margin-left:50px;
+  margin-right:50px;
   background-color: orange;
 }
