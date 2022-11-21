@@ -6,11 +6,11 @@ body{
 #wrapper{
   width:810px;
   margin:0 auto;
-  background-color:white;
+  background-color:lightskyblue;
 }
 
 #headerWrapper{
-  width:810px;
+  width:750px;
   height:100px;
   margin-bottom:50px;
   background-color:cyan;
@@ -20,10 +20,8 @@ body{
   float:left;
   margin-left:50px;
   margin-top:10px;
-  text-align:center;
-  width:150px;
+  width:80px;
   height:80px;
-  background-color:grey;
 }
 
 #headerMid{
@@ -31,7 +29,7 @@ body{
   margin-left:60px;
   margin-top:10px;
   text-align:center;
-  width:350px;
+  width:200px;
   height:80px;
   background-color:violet;
 }
@@ -41,9 +39,49 @@ body{
   margin-top:10px;
   margin-right:50px;
   text-align:center;
-  width:100px;
+  width:400px;
   height:80px;
-  background-color: red;
+  background-color:red;
+}
+
+#smallheader1{
+  float:left;
+  margin-top:10px;
+  margin-left:10px;
+  text-align:center;
+  width:80px;
+  height:60px;
+  background-color: black;
+}
+
+#smallheader2{
+  float:left;
+  margin-top:10px;
+  margin-left:20px;
+  text-align:center;
+  width:80px;
+  height:60px;
+  background-color: black;
+}
+
+#smallheader3{
+  float:right;
+  margin-top:10px;
+  margin-right:20px;
+  text-align:center;
+  width:80px;
+  height:60px;
+  background-color: black;
+}
+
+#smallheader4{
+  float:right;
+  margin-top:10px;
+  margin-right:10px;
+  text-align:center;
+  width:80px;
+  height:60px;
+  background-color: black;
 }
 
 #SearchWrapper{
