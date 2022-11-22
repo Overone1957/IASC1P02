@@ -1,0 +1,260 @@
+body{
+  color:black;
+  background-color:black;
+}
+
+#wrapper{
+  width:960px;
+  margin:0 auto;
+  background-color:lightskyblue;
+}
+
+#headerWrapper{
+  width:860px;
+  height:100px;
+  margin-left:50px;
+  margin-right:50px;
+  margin-bottom:10px;
+  background-color:cyan;
+}
+
+#headerLeft{
+  float:left;
+  margin-left:20px;
+  margin-top:10px;
+  width:80px;
+  height:80px;
+}
+
+img{
+  width:80px;
+  height:80px;
+}
+
+#headerMid{
+  float:left;
+  margin-left:10px;
+  margin-top:10px;
+  text-align:center;
+  width:300px;
+  height:80px;
+  background-color:cyan;
+}
+
+#headerRight{
+  float:right;
+  margin-top:10px;
+  margin-right:20px;
+  text-align:center;
+  width:400px;
+  height:80px;
+  background-color:red;
+}
+
+#HeroWrapper{
+  width:860px;
+  height:2000px;
+  margin-left:50px;
+  margin-right:50px;
+  margin-bottom:10px;
+  background-color:purple;
+}
+
+#Hero1{
+  float:left;
+  width:375px;
+  height:200px;
+  margin-top:20px;
+  margin-left:35px;
+  background-color:yellow;
+}
+
+#Hero2{
+  float:right;
+  width:375px;
+  height:200px;
+  margin-top:20px;
+  margin-right:35px;
+  background-color:yellow;
+}
+
+#Hero3{
+  clear:both;
+  float:left;
+  width:375px;
+  height:200px;
+  margin-top:20px;
+  margin-left:35px;
+  background-color:yellow;
+}
+
+#Hero4{
+  float:right;
+  width:375px;
+  height:200px;
+  margin-top:20px;
+  margin-right:35px;
+  background-color:yellow;
+}
+
+#Hero5{
+  clear:both;
+  float:left;
+  width:375px;
+  height:200px;
+  margin-top:20px;
+  margin-left:35px;
+  background-color:yellow;
+}
+
+#Hero6{
+  float:right;
+  width:375px;
+  height:200px;
+  margin-top:20px;
+  margin-right:35px;
+  background-color:yellow;
+}
+
+#Hero7{
+  clear:both;
+  float:left;
+  width:375px;
+  height:200px;
+  margin-top:20px;
+  margin-left:35px;
+  background-color:yellow;
+}
+
+#Hero8{
+  float:right;
+  width:375px;
+  height:200px;
+  margin-top:20px;
+  margin-right:35px;
+  background-color:yellow;
+}
+
+#Hero9{
+  clear:both;
+  float:left;
+  width:375px;
+  height:200px;
+  margin-top:20px;
+  margin-left:35px;
+  background-color:yellow;
+}
+
+#Hero10{
+  float:right;
+  width:375px;
+  height:200px;
+  margin-top:20px;
+  margin-right:35px;
+  background-color:yellow;
+}
+
+#Hero11{
+  clear:both;
+  float:left;
+  width:375px;
+  height:200px;
+  margin-top:20px;
+  margin-left:35px;
+  background-color:yellow;
+}
+
+#Hero12{
+  float:right;
+  width:375px;
+  height:200px;
+  margin-top:20px;
+  margin-right:35px;
+  background-color:yellow;
+}
+
+#Hero13{
+  clear:both;
+  float:left;
+  width:375px;
+  height:200px;
+  margin-top:20px;
+  margin-left:35px;
+  background-color:yellow;
+}
+
+#Hero14{
+  float:right;
+  width:375px;
+  height:200px;
+  margin-top:20px;
+  margin-right:35px;
+  background-color:yellow;
+}
+
+#Hero15{
+  clear:both;
+  float:left;
+  width:375px;
+  height:200px;
+  margin-top:20px;
+  margin-left:35px;
+  background-color:yellow;
+}
+
+#Hero16{
+  float:right;
+  width:375px;
+  height:200px;
+  margin-top:20px;
+  margin-right:35px;
+  background-color:yellow;
+}
+
+#Hero17{
+  clear:both;
+  float:left;
+  width:375px;
+  height:200px;
+  margin-top:20px;
+  margin-left:35px;
+  background-color:yellow;
+}
+
+#FooterWrapper{
+  width:860px;
+  height:100px;
+  margin-left:50px;
+  margin-right:50px;
+  background-color:orange;
+}
+
+#Damage{
+  text-align:center;
+  width:240px;
+  height:80px;
+  float:left;
+  margin-left:30px;
+  margin-top:10px;
+  background-color:cyan;
+}
+
+#Support{
+  text-align:center;
+  width:240px;
+  height:80px;
+  float:left;
+  margin-left:40px;
+  margin-top:10px;
+  background-color:cyan;
+}
+
+#Back{
+  text-align:center;
+  width:240px;
+  height:80px;
+  float:right;
+  margin-right:30px;
+  margin-top:10px;
+  background-color:cyan;
+}
