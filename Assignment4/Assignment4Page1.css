@@ -45,9 +45,8 @@ body{
 #headerRight{
   float:right;
   margin-top:10px;
-  margin-right:20px;
   text-align:center;
-  width:400px;
+  width:435px;
   height:80px;
   background-color:orange;
 }
@@ -55,9 +54,9 @@ body{
 #smallheader1{
   float:left;
   margin-top:25px;
-  margin-left:15px;
+  margin-left:10px;
   text-align:center;
-  width:80px;
+  width:90px;
   height:30px;
   background-color:lightyellow;
   color:black;
@@ -69,7 +68,7 @@ body{
   margin-top:25px;
   margin-left:10px;
   text-align:center;
-  width:80px;
+  width:90px;
   height:30px;
   background-color:lightyellow;
   color:black;
@@ -81,7 +80,7 @@ body{
   margin-top:25px;
   margin-left:10px;
   text-align:center;
-  width:80px;
+  width:90px;
   height:30px;
   background-color:lightyellow;
   color:black;
@@ -93,12 +92,11 @@ body{
   margin-top:25px;
   margin-right:10px;
   text-align:center;
-  width:80px;
+  width:90px;
   height:30px;
   background-color:lightyellow;
   color:black;
   border-style:groove;
-  display:inline;
 }
 
 #headerRight h3{
