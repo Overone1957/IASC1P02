@@ -98,6 +98,7 @@ body{
   background-color:lightyellow;
   color:black;
   border-style:groove;
+  display:inline;
 }
 
 #headerRight h3{
