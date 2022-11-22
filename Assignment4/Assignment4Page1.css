@@ -178,7 +178,7 @@ body{
 
 #HeroesWrapper{
   width:840px;
-  height:750px;
+  height:1000px;
   margin-left:50px;
   margin-right:50px;
   margin-bottom:10px;
@@ -285,12 +285,95 @@ body{
   margin-left:10px;
   margin-right:30px;
   margin-bottom:10px;
-  background-color: blue;
+  background-color: royalblue;
+}
+
+#Damageinfo{
+  float:left;
+  margin-top:10px;
+  margin-left:10px;
+  text-align:center;
+  width:165px;
+  height:220px;
+  color:white;
+  background-color:royalblue;
+}
+
+#Genji{
+  float:left;
+  margin-top:10px;
+  margin-left:10px;
+  text-align:center;
+  width:165px;
+  height:220px;
+  color:black;
+  background-color:white;
+}
+
+#Genji img{
+  margin-top:3px;
+  width:160px;
+  height:165px;
+  background-color:paleturquoise;
+}
+
+#Tracer{
+  float:left;
+  margin-top:10px;
+  margin-left:10px;
+  text-align:center;
+  width:165px;
+  height:220px;
+  color:black;
+  background-color:white;
+}
+
+#Tracer img{
+  margin-top:3px;
+  width:160px;
+  height:165px;
+  background-color:paleturquoise;
+}
+
+#Cassidy{
+  float:left;
+  margin-top:10px;
+  margin-left:10px;
+  text-align:center;
+  width:165px;
+  height:220px;
+  color:black;
+  background-color:white;
+}
+
+#Cassidy img{
+  margin-top:3px;
+  width:160px;
+  height:165px;
+  background-color:paleturquoise;
+}
+
+#MoreDamage{
+  text-align:center;
+  float:right;
+  margin-right:10px;
+  margin-top:10px;
+  width:80px;
+  height:220px;
+  color:black;
+  background-color:paleturquoise;
+}
+
+#MoreDamage img{
+  padding-top:50px;
+  width:50px;
+  height:50px;
+  background-color:paleturquoise;
 }
 
 #Support{
   width:800px;
-  height:200px;
+  height:240px;
   margin-left:10px;
   margin-right:30px;
   margin-bottom:10px;
