@@ -52,110 +52,142 @@ img{
 }
 
 #HeroWrapper{
-  width:840px;
-  height:1000px;
+  width:860px;
+  height:1120px;
   margin-left:50px;
   margin-right:50px;
   margin-bottom:10px;
-  padding-top:1px;
-  padding-left:20px;
   background-color:purple;
 }
 
 #Hero1{
   float:left;
-  width:250px;
-  height:220px;
-  margin-left:10px;
+  width:375px;
+  height:200px;
+  margin-top:20px;
+  margin-left:35px;
   background-color:yellow;
 }
 
 #Hero2{
   float:right;
-  width:250px;
-  height:220px;
-  margin-right:30px;
+  width:375px;
+  height:200px;
+  margin-top:20px;
+  margin-right:35px;
   background-color:yellow;
 }
 
 #Hero3{
   clear:both;
   float:left;
-  width:250px;
-  height:220px;
-  margin-left:10px;
+  width:375px;
+  height:200px;
+  margin-top:20px;
+  margin-left:35px;
   background-color:yellow;
 }
 
 #Hero4{
-  clear:both;
   float:right;
-  width:250px;
-  height:220px;
-  margin-right:30px;
+  width:375px;
+  height:200px;
+  margin-top:20px;
+  margin-right:35px;
   background-color:yellow;
 }
 
 #Hero5{
   clear:both;
   float:left;
-  width:250px;
-  height:220px;
-  margin-left:10px;
+  width:375px;
+  height:200px;
+  margin-top:20px;
+  margin-left:35px;
   background-color:yellow;
 }
 
 #Hero6{
-  clear:both;
   float:right;
-  width:250px;
-  height:220px;
-  margin-right:30px;
+  width:375px;
+  height:200px;
+  margin-top:20px;
+  margin-right:35px;
   background-color:yellow;
 }
 
 #Hero7{
   clear:both;
   float:left;
-  width:250px;
-  height:220px;
-  margin-left:10px;
+  width:375px;
+  height:200px;
+  margin-top:20px;
+  margin-left:35px;
   background-color:yellow;
 }
 
 #Hero8{
-  clear:both;
   float:right;
-  width:250px;
-  height:220px;
-  margin-right:30px;
+  width:375px;
+  height:200px;
+  margin-top:20px;
+  margin-right:35px;
   background-color:yellow;
 }
 
 #Hero9{
   clear:both;
   float:left;
-  width:250px;
-  height:220px;
-  margin-left:10px;
+  width:375px;
+  height:200px;
+  margin-top:20px;
+  margin-left:35px;
   background-color:yellow;
 }
 
 #Hero10{
-  clear:both;
   float:right;
-  width:250px;
-  height:220px;
-  margin-right:30px;
+  width:375px;
+  height:200px;
+  margin-top:20px;
+  margin-right:35px;
   background-color:yellow;
 }
 
 #FooterWrapper{
-  width:840px;
+  width:860px;
   height:100px;
   margin-left:50px;
   margin-right:50px;
-  padding-top:1px;
-  padding-left:20px;
-  background-color: orange;
+  background-color:orange;
+}
+
+#Damage{
+  text-align:center;
+  width:240px;
+  height:80px;
+  float:left;
+  margin-left:30px;
+  margin-top:10px;
+  background-color:cyan;
+}
+
+#Support{
+  text-align:center;
+  width:240px;
+  height:80px;
+  float:left;
+  margin-left:40px;
+  margin-top:10px;
+  background-color:cyan;
+}
+
+#Back{
+  text-align:center;
+  width:240px;
+  height:80px;
+  float:right;
+  margin-right:30px;
+  margin-top:10px;
+  background-color:cyan;
 }
