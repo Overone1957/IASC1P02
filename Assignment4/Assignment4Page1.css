@@ -53,8 +53,9 @@ body{
 
 #smallheader1{
   float:left;
-  margin-top:25px;
+  margin-top:20px;
   margin-left:10px;
+  padding-top:10px;
   text-align:center;
   width:90px;
   height:30px;
@@ -65,8 +66,9 @@ body{
 
 #smallheader2{
   float:left;
-  margin-top:25px;
+  margin-top:20px;
   margin-left:10px;
+  padding-top:10px;
   text-align:center;
   width:90px;
   height:30px;
@@ -77,8 +79,9 @@ body{
 
 #smallheader3{
   float:left;
-  margin-top:25px;
+  margin-top:20px;
   margin-left:10px;
+  padding-top:10px;
   text-align:center;
   width:90px;
   height:30px;
@@ -89,18 +92,15 @@ body{
 
 #smallheader4{
   float:right;
-  margin-top:25px;
+  margin-top:20px;
   margin-right:10px;
+  padding-top:10px;
   text-align:center;
   width:90px;
   height:30px;
   background-color:lightyellow;
   color:black;
   border-style:groove;
-}
-
-#headerRight h3{
-  margin-top:5px;
 }
 
 #NewsWrapper{
