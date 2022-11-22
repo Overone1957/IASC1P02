@@ -297,7 +297,7 @@ body{
 #Damage{
   width:800px;
   height:240px;
-  margin:20px 30px 10px 10px;
+  margin:20px 30px 20px 10px;
   background-color: royalblue;
 }
 
@@ -387,9 +387,7 @@ body{
 #Support{
   width:800px;
   height:240px;
-  margin-left:10px;
-  margin-right:30px;
-  margin-bottom:10px;
+  margin:20px 30px 20px 10px;
   background-color:royalblue;
 }
 
