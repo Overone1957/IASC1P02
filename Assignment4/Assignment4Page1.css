@@ -140,8 +140,12 @@ body{
   background-color:royalblue;
 }
 
-#News2 h4, #News3 h4{
+#News2 h4{
   padding-top:10px;
+}
+
+#News3 h4{
+  padding-top:5px;
 }
 
 #News3{
@@ -163,7 +167,7 @@ body{
   margin-bottom:10px;
   padding-top:1px;
   padding-left:20px;
-  background-color: green;
+  background-color:mediumblue;
 }
 
 #Overwatch2016{
@@ -173,7 +177,7 @@ body{
   margin-left:10px;
   margin-right:30px;
   margin-top:10px;
-  background-color: pink;
+  background-color:steelblue;
 }
 
 #Overwatch2016 h3, #Overwatch2022 h3{
@@ -187,7 +191,7 @@ body{
   margin-left:10px;
   margin-right:30px;
   margin-top:10px;
-  background-color: pink;
+  background-color:steelblue;
 }
 
 #HeroesWrapper{
@@ -477,6 +481,7 @@ body{
 }
 
 #FooterWrapper{
+  text-align:center;
   width:840px;
   height:100px;
   margin-left:50px;
