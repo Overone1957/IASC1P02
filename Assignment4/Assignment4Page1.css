@@ -15,7 +15,7 @@ body{
   margin-left:50px;
   margin-right:50px;
   margin-bottom:10px;
-  background-color:cyan;
+  background-color:orange;
 }
 
 #headerLeft{
@@ -38,8 +38,8 @@ body{
   text-align:center;
   width:300px;
   height:80px;
-  background-color:cyan;
-  color:orange;
+  background-color:orange;
+  color:navy;
 }
 
 #headerRight{
@@ -49,50 +49,59 @@ body{
   text-align:center;
   width:400px;
   height:80px;
-  background-color:red;
+  background-color:orange;
 }
 
 #smallheader1{
   float:left;
-  margin-top:10px;
+  margin-top:25px;
   margin-left:17.5px;
   text-align:center;
   width:80px;
-  height:60px;
-  background-color: yellow;
+  height:30px;
+  background-color:aqua;
+  color:black;
 }
 
 #smallheader2{
   float:left;
-  margin-top:10px;
+  margin-top:25px;
   margin-left:15px;
   text-align:center;
   width:80px;
-  height:60px;
-  background-color: yellow;
+  height:30px;
+  background-color:aqua;
+  color:black;
 }
 
 #smallheader3{
   float:left;
-  margin-top:10px;
+  margin-top:25px;
   margin-left:15px;
   text-align:center;
   width:80px;
-  height:60px;
-  background-color: yellow;
+  height:30px;
+  background-color:aqua;
+  color:black;
 }
 
 #smallheader4{
   float:right;
-  margin-top:10px;
+  margin-top:25px;
   margin-right:17.5px;
   text-align:center;
   width:80px;
-  height:60px;
-  background-color: yellow;
+  height:30px;
+  background-color:aqua;
+  color:black;
+}
+
+#headerRight h3{
+  margin-top:5px;
 }
 
 #NewsWrapper{
+  text-align:center;
   width:840px;
   height:300px;
   margin-left:50px;
@@ -141,6 +150,7 @@ body{
 }
 
 #HistoryWrapper{
+  text-align:center;
   width:840px;
   height:550px;
   margin-left:50px;
@@ -177,14 +187,15 @@ body{
 }
 
 #HeroesWrapper{
+  text-align:center;
   width:840px;
-  height:1000px;
+  height:850px;
   margin-left:50px;
   margin-right:50px;
   margin-bottom:10px;
   padding-top:1px;
   padding-left:20px;
-  background-color: pink;
+  background-color:royalblue;
 }
 
 #Tank{
@@ -265,15 +276,15 @@ body{
   text-align:center;
   float:right;
   margin-right:10px;
-  margin-top:10px;
+  margin-top:60px;
   width:80px;
-  height:220px;
+  height:120px;
   color:black;
   background-color:paleturquoise;
 }
 
 #MoreTank img{
-  padding-top:50px;
+  padding-top:10px;
   width:50px;
   height:50px;
   background-color:paleturquoise;
@@ -355,15 +366,15 @@ body{
   text-align:center;
   float:right;
   margin-right:10px;
-  margin-top:10px;
+  margin-top:60px;
   width:80px;
-  height:220px;
+  height:120px;
   color:black;
   background-color:paleturquoise;
 }
 
 #MoreDamage img{
-  padding-top:50px;
+  padding-top:10px;
   width:50px;
   height:50px;
   background-color:paleturquoise;
@@ -447,15 +458,15 @@ body{
   text-align:center;
   float:right;
   margin-right:10px;
-  margin-top:10px;
+  margin-top:60px;
   width:80px;
-  height:220px;
+  height:120px;
   color:black;
   background-color:paleturquoise;
 }
 
 #MoreSupport img{
-  padding-top:50px;
+  padding-top:10px;
   width:50px;
   height:50px;
   background-color:paleturquoise;
