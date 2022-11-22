@@ -39,7 +39,7 @@ body{
   width:300px;
   height:80px;
   background-color:orange;
-  color:navy;
+  color:midnightblue;
 }
 
 #headerRight{
@@ -55,45 +55,49 @@ body{
 #smallheader1{
   float:left;
   margin-top:25px;
-  margin-left:17.5px;
+  margin-left:15px;
   text-align:center;
   width:80px;
   height:30px;
-  background-color:aqua;
+  background-color:lightyellow;
   color:black;
+  border-style:groove;
 }
 
 #smallheader2{
   float:left;
   margin-top:25px;
-  margin-left:15px;
+  margin-left:10px;
   text-align:center;
   width:80px;
   height:30px;
-  background-color:aqua;
+  background-color:lightyellow;
   color:black;
+  border-style:groove;
 }
 
 #smallheader3{
   float:left;
   margin-top:25px;
-  margin-left:15px;
+  margin-left:10px;
   text-align:center;
   width:80px;
   height:30px;
-  background-color:aqua;
+  background-color:lightyellow;
   color:black;
+  border-style:groove;
 }
 
 #smallheader4{
   float:right;
   margin-top:25px;
-  margin-right:17.5px;
+  margin-right:10px;
   text-align:center;
   width:80px;
   height:30px;
-  background-color:aqua;
+  background-color:lightyellow;
   color:black;
+  border-style:groove;
 }
 
 #headerRight h3{
@@ -109,7 +113,7 @@ body{
   margin-bottom:10px;
   padding-top:1px;
   padding-left:20px;
-  background-color:purple;
+  background-color:navy;
 }
 
 #News1{
