@@ -1,5 +1,5 @@
 body{
-  color:black;
+  color:white;
   background-color:black;
 }
 
@@ -15,7 +15,7 @@ body{
   margin-left:50px;
   margin-right:50px;
   margin-bottom:10px;
-  background-color:cyan;
+  background-color:orange;
 }
 
 #headerLeft{
@@ -36,189 +36,582 @@ img{
   margin-left:10px;
   margin-top:10px;
   text-align:center;
-  width:300px;
+  width:400px;
   height:80px;
-  background-color:cyan;
+  background-color:orange;
+  color:midnightblue;
 }
 
 #headerRight{
   float:right;
-  margin-top:10px;
-  margin-right:20px;
+  padding-top:10px;
   text-align:center;
-  width:400px;
-  height:80px;
-  background-color:red;
+  width:200px;
+  height:85px;
+  background-color:lightyellow;
+  color:black;
+  border-style:groove;
 }
 
 #HeroWrapper{
   width:860px;
-  height:2000px;
+  height:2370px;
   margin-left:50px;
   margin-right:50px;
   margin-bottom:10px;
-  background-color:purple;
+  background-color:dodgerblue;
 }
 
 #Hero1{
   float:left;
   width:375px;
-  height:200px;
+  height:240px;
   margin-top:20px;
   margin-left:35px;
-  background-color:yellow;
+  background-color:dodgerblue;
+}
+
+#Ashe1{
+  float:left;
+  text-align:center;
+  margin-top:10px;
+  margin-left:10px;
+}
+
+#Ashe2{
+  float:right;
+  width:175px;
+  height:200px;
+  margin-right:10px;
+}
+
+#Ashe1 img{
+  margin-top:3px;
+  width:160px;
+  height:165px;
+  background-color:paleturquoise;
+  border-style:groove;
+  border-color:black;
 }
 
 #Hero2{
   float:right;
   width:375px;
-  height:200px;
+  height:240px;
   margin-top:20px;
   margin-right:35px;
-  background-color:yellow;
+  background-color:dodgerblue;
+}
+
+#Bastion1{
+  float:left;
+  text-align:center;
+  margin-top:10px;
+  margin-left:10px;
+}
+
+#Bastion2{
+  float:right;
+  width:175px;
+  height:200px;
+  margin-right:10px;
+}
+
+#Bastion1 img{
+  margin-top:3px;
+  width:160px;
+  height:165px;
+  background-color:paleturquoise;
+  border-style:groove;
+  border-color:black;
 }
 
 #Hero3{
   clear:both;
   float:left;
   width:375px;
-  height:200px;
+  height:240px;
   margin-top:20px;
   margin-left:35px;
-  background-color:yellow;
+  background-color:dodgerblue;
+}
+
+#Cassidy1{
+  float:left;
+  text-align:center;
+  margin-top:10px;
+  margin-left:10px;
+}
+
+#Cassidy2{
+  float:right;
+  width:175px;
+  height:200px;
+  margin-right:10px;
+}
+
+#Cassidy1 img{
+  margin-top:3px;
+  width:160px;
+  height:165px;
+  background-color:paleturquoise;
+  border-style:groove;
+  border-color:black;
 }
 
 #Hero4{
   float:right;
   width:375px;
-  height:200px;
+  height:240px;
   margin-top:20px;
   margin-right:35px;
-  background-color:yellow;
+  background-color:dodgerblue;
+}
+
+#Echo1{
+  float:left;
+  text-align:center;
+  margin-top:10px;
+  margin-left:10px;
+}
+
+#Echo2{
+  float:right;
+  width:175px;
+  height:200px;
+  margin-right:10px;
+}
+
+#Echo1 img{
+  margin-top:3px;
+  width:160px;
+  height:165px;
+  background-color:paleturquoise;
+  border-style:groove;
+  border-color:black;
 }
 
 #Hero5{
   clear:both;
   float:left;
   width:375px;
-  height:200px;
+  height:240px;
   margin-top:20px;
   margin-left:35px;
-  background-color:yellow;
+  background-color:dodgerblue;
+}
+
+#Genji1{
+  float:left;
+  text-align:center;
+  margin-top:10px;
+  margin-left:10px;
+}
+
+#Genji2{
+  float:right;
+  width:175px;
+  height:200px;
+  margin-right:10px;
+}
+
+#Genji1 img{
+  margin-top:3px;
+  width:160px;
+  height:165px;
+  background-color:paleturquoise;
+  border-style:groove;
+  border-color:black;
 }
 
 #Hero6{
   float:right;
   width:375px;
-  height:200px;
+  height:240px;
   margin-top:20px;
   margin-right:35px;
-  background-color:yellow;
+  background-color:dodgerblue;
+}
+
+#Hanzo1{
+  float:left;
+  text-align:center;
+  margin-top:10px;
+  margin-left:10px;
+}
+
+#Hanzo2{
+  float:right;
+  width:175px;
+  height:200px;
+  margin-right:10px;
+}
+
+#Hanzo1 img{
+  margin-top:3px;
+  width:160px;
+  height:165px;
+  background-color:paleturquoise;
+  border-style:groove;
+  border-color:black;
 }
 
 #Hero7{
   clear:both;
   float:left;
   width:375px;
-  height:200px;
+  height:240px;
   margin-top:20px;
   margin-left:35px;
-  background-color:yellow;
+  background-color:dodgerblue;
+}
+
+#Junkrat1{
+  float:left;
+  text-align:center;
+  margin-top:10px;
+  margin-left:10px;
+}
+
+#Junkrat2{
+  float:right;
+  width:175px;
+  height:200px;
+  margin-right:10px;
+}
+
+#Junkrat1 img{
+  margin-top:3px;
+  width:160px;
+  height:165px;
+  background-color:paleturquoise;
+  border-style:groove;
+  border-color:black;
 }
 
 #Hero8{
   float:right;
   width:375px;
-  height:200px;
+  height:240px;
   margin-top:20px;
   margin-right:35px;
-  background-color:yellow;
+  background-color:dodgerblue;
+}
+
+#Mei1{
+  float:left;
+  text-align:center;
+  margin-top:10px;
+  margin-left:10px;
+}
+
+#Mei2{
+  float:right;
+  width:175px;
+  height:200px;
+  margin-right:10px;
+}
+
+#Mei1 img{
+  margin-top:3px;
+  width:160px;
+  height:165px;
+  background-color:paleturquoise;
+  border-style:groove;
+  border-color:black;
 }
 
 #Hero9{
   clear:both;
   float:left;
   width:375px;
-  height:200px;
+  height:240px;
   margin-top:20px;
   margin-left:35px;
-  background-color:yellow;
+  background-color:dodgerblue;
+}
+
+#Pharah1{
+  float:left;
+  text-align:center;
+  margin-top:10px;
+  margin-left:10px;
+}
+
+#Pharah2{
+  float:right;
+  width:175px;
+  height:200px;
+  margin-right:10px;
+}
+
+#Pharah1 img{
+  margin-top:3px;
+  width:160px;
+  height:165px;
+  background-color:paleturquoise;
+  border-style:groove;
+  border-color:black;
 }
 
 #Hero10{
   float:right;
   width:375px;
-  height:200px;
+  height:240px;
   margin-top:20px;
   margin-right:35px;
-  background-color:yellow;
+  background-color:dodgerblue;
+}
+
+#Reaper1{
+  float:left;
+  text-align:center;
+  margin-top:10px;
+  margin-left:10px;
+}
+
+#Reaper2{
+  float:right;
+  width:175px;
+  height:200px;
+  margin-right:10px;
+}
+
+#Reaper1 img{
+  margin-top:3px;
+  width:160px;
+  height:165px;
+  background-color:paleturquoise;
+  border-style:groove;
+  border-color:black;
 }
 
 #Hero11{
   clear:both;
   float:left;
   width:375px;
-  height:200px;
+  height:240px;
   margin-top:20px;
   margin-left:35px;
-  background-color:yellow;
+  background-color:dodgerblue;
+}
+
+#Sojourn1{
+  float:left;
+  text-align:center;
+  margin-top:10px;
+  margin-left:10px;
+}
+
+#Sojourn2{
+  float:right;
+  width:175px;
+  height:200px;
+  margin-right:10px;
+}
+
+#Sojourn1 img{
+  margin-top:3px;
+  width:160px;
+  height:165px;
+  background-color:paleturquoise;
+  border-style:groove;
+  border-color:black;
 }
 
 #Hero12{
   float:right;
   width:375px;
-  height:200px;
+  height:240px;
   margin-top:20px;
   margin-right:35px;
-  background-color:yellow;
+  background-color:dodgerblue;
+}
+
+#Soldier1{
+  float:left;
+  text-align:center;
+  margin-top:10px;
+  margin-left:10px;
+}
+
+#Soldier2{
+  float:right;
+  width:175px;
+  height:200px;
+  margin-right:10px;
+}
+
+#Soldier1 img{
+  margin-top:3px;
+  width:160px;
+  height:165px;
+  background-color:paleturquoise;
+  border-style:groove;
+  border-color:black;
 }
 
 #Hero13{
   clear:both;
   float:left;
   width:375px;
-  height:200px;
+  height:240px;
   margin-top:20px;
   margin-left:35px;
-  background-color:yellow;
+  background-color:dodgerblue;
+}
+
+#Sombra1{
+  float:left;
+  text-align:center;
+  margin-top:10px;
+  margin-left:10px;
+}
+
+#Sombra2{
+  float:right;
+  width:175px;
+  height:200px;
+  margin-right:10px;
+}
+
+#Sombra1 img{
+  margin-top:3px;
+  width:160px;
+  height:165px;
+  background-color:paleturquoise;
+  border-style:groove;
+  border-color:black;
 }
 
 #Hero14{
   float:right;
   width:375px;
-  height:200px;
+  height:240px;
   margin-top:20px;
   margin-right:35px;
-  background-color:yellow;
+  background-color:dodgerblue;
+}
+
+#Symmetra1{
+  float:left;
+  text-align:center;
+  margin-top:10px;
+  margin-left:10px;
+}
+
+#Symmetra2{
+  float:right;
+  width:175px;
+  height:200px;
+  margin-right:10px;
+}
+
+#Symmetra1 img{
+  margin-top:3px;
+  width:160px;
+  height:165px;
+  background-color:paleturquoise;
+  border-style:groove;
+  border-color:black;
 }
 
 #Hero15{
   clear:both;
   float:left;
   width:375px;
-  height:200px;
+  height:240px;
   margin-top:20px;
   margin-left:35px;
-  background-color:yellow;
+  background-color:dodgerblue;
+}
+
+#Torbjorn1{
+  float:left;
+  text-align:center;
+  margin-top:10px;
+  margin-left:10px;
+}
+
+#Torbjorn2{
+  float:right;
+  width:175px;
+  height:200px;
+  margin-right:10px;
+}
+
+#Torbjorn1 img{
+  margin-top:3px;
+  width:160px;
+  height:165px;
+  background-color:paleturquoise;
+  border-style:groove;
+  border-color:black;
 }
 
 #Hero16{
   float:right;
   width:375px;
-  height:200px;
+  height:240px;
   margin-top:20px;
   margin-right:35px;
-  background-color:yellow;
+  background-color:dodgerblue;
+}
+
+#Tracer1{
+  float:left;
+  text-align:center;
+  margin-top:10px;
+  margin-left:10px;
+}
+
+#Tracer2{
+  float:right;
+  width:175px;
+  height:200px;
+  margin-right:10px;
+}
+
+#Tracer1 img{
+  margin-top:3px;
+  width:160px;
+  height:165px;
+  background-color:paleturquoise;
+  border-style:groove;
+  border-color:black;
 }
 
 #Hero17{
   clear:both;
   float:left;
   width:375px;
-  height:200px;
+  height:240px;
   margin-top:20px;
   margin-left:35px;
-  background-color:yellow;
+  background-color:dodgerblue;
+}
+
+#Widowmaker1{
+  float:left;
+  text-align:center;
+  margin-top:10px;
+  margin-left:10px;
+}
+
+#Widowmaker2{
+  float:right;
+  width:175px;
+  height:200px;
+  margin-right:10px;
+}
+
+#Widowmaker1 img{
+  margin-top:3px;
+  width:160px;
+  height:165px;
+  background-color:paleturquoise;
+  border-style:groove;
+  border-color:black;
 }
 
 #FooterWrapper{
@@ -236,7 +629,10 @@ img{
   float:left;
   margin-left:30px;
   margin-top:10px;
-  background-color:cyan;
+  background-color:lightyellow;
+  color:black;
+  border-style: groove;
+  border-color: black;
 }
 
 #Support{
@@ -244,9 +640,12 @@ img{
   width:240px;
   height:80px;
   float:left;
-  margin-left:40px;
+  margin-left:30px;
   margin-top:10px;
-  background-color:cyan;
+  background-color:lightyellow;
+  color:black;
+  border-style: groove;
+  border-color: black;
 }
 
 #Back{
@@ -256,5 +655,8 @@ img{
   float:right;
   margin-right:30px;
   margin-top:10px;
-  background-color:cyan;
+  background-color:lightyellow;
+  color:black;
+  border-style: groove;
+  border-color: black;
 }
