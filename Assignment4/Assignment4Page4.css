@@ -1,5 +1,5 @@
 body{
-  color:black;
+  color:white;
   background-color:black;
 }
 
@@ -15,7 +15,7 @@ body{
   margin-left:50px;
   margin-right:50px;
   margin-bottom:10px;
-  background-color:cyan;
+  background-color:orange;
 }
 
 #headerLeft{
@@ -36,103 +36,289 @@ img{
   margin-left:10px;
   margin-top:10px;
   text-align:center;
-  width:300px;
+  width:400px;
   height:80px;
-  background-color:cyan;
+  background-color:orange;
+  color:midnightblue;
 }
 
 #headerRight{
   float:right;
-  margin-top:10px;
-  margin-right:20px;
+  padding-top:10px;
   text-align:center;
-  width:400px;
-  height:80px;
-  background-color:red;
+  width:200px;
+  height:85px;
+  background-color:lightyellow;
+  color:black;
+  border-style:groove;
 }
 
 #HeroWrapper{
   width:860px;
-  height:900px;
+  height:1350px;
   margin-left:50px;
   margin-right:50px;
   margin-bottom:10px;
-  background-color:purple;
+  background-color:dodgerblue;
 }
 
 #Hero1{
   float:left;
   width:375px;
-  height:200px;
+  height:240px;
   margin-top:20px;
   margin-left:35px;
-  background-color:yellow;
+  background-color:dodgerblue;
+}
+
+#Ana1{
+  float:left;
+  text-align:center;
+  margin-top:10px;
+  margin-left:10px;
+}
+
+#Ana2{
+  float:right;
+  width:175px;
+  height:200px;
+  margin-right:10px;
+}
+
+#Ana1 img{
+  margin-top:3px;
+  width:160px;
+  height:165px;
+  background-color:paleturquoise;
+  border-style:groove;
+  border-color:black;
 }
 
 #Hero2{
   float:right;
   width:375px;
-  height:200px;
+  height:240px;
   margin-top:20px;
   margin-right:35px;
-  background-color:yellow;
+  background-color:dodgerblue;
+}
+
+#Baptiste1{
+  float:left;
+  text-align:center;
+  margin-top:10px;
+  margin-left:10px;
+}
+
+#Baptiste2{
+  float:right;
+  width:175px;
+  height:200px;
+  margin-right:10px;
+}
+
+#Baptiste1 img{
+  margin-top:3px;
+  width:160px;
+  height:165px;
+  background-color:paleturquoise;
+  border-style:groove;
+  border-color:black;
 }
 
 #Hero3{
   clear:both;
   float:left;
   width:375px;
-  height:200px;
+  height:240px;
   margin-top:20px;
   margin-left:35px;
-  background-color:yellow;
+  background-color:dodgerblue;
+}
+
+#Brigitte1{
+  float:left;
+  text-align:center;
+  margin-top:10px;
+  margin-left:10px;
+}
+
+#Brigitte2{
+  float:right;
+  width:175px;
+  height:200px;
+  margin-right:10px;
+}
+
+#Brigitte1 img{
+  margin-top:3px;
+  width:160px;
+  height:165px;
+  background-color:paleturquoise;
+  border-style:groove;
+  border-color:black;
 }
 
 #Hero4{
   float:right;
   width:375px;
-  height:200px;
+  height:240px;
   margin-top:20px;
   margin-right:35px;
-  background-color:yellow;
+  background-color:dodgerblue;
+}
+
+#Kiriko1{
+  float:left;
+  text-align:center;
+  margin-top:10px;
+  margin-left:10px;
+}
+
+#Kiriko2{
+  float:right;
+  width:175px;
+  height:200px;
+  margin-right:10px;
+}
+
+#Kiriko1 img{
+  margin-top:3px;
+  width:160px;
+  height:165px;
+  background-color:paleturquoise;
+  border-style:groove;
+  border-color:black;
 }
 
 #Hero5{
   clear:both;
   float:left;
   width:375px;
-  height:200px;
+  height:240px;
   margin-top:20px;
   margin-left:35px;
-  background-color:yellow;
+  background-color:dodgerblue;
+}
+
+#Lucio1{
+  float:left;
+  text-align:center;
+  margin-top:10px;
+  margin-left:10px;
+}
+
+#Lucio2{
+  float:right;
+  width:175px;
+  height:200px;
+  margin-right:10px;
+}
+
+#Lucio1 img{
+  margin-top:3px;
+  width:160px;
+  height:165px;
+  background-color:paleturquoise;
+  border-style:groove;
+  border-color:black;
 }
 
 #Hero6{
   float:right;
   width:375px;
-  height:200px;
+  height:240px;
   margin-top:20px;
   margin-right:35px;
-  background-color:yellow;
+  background-color:dodgerblue;
+}
+
+#Mercy1{
+  float:left;
+  text-align:center;
+  margin-top:10px;
+  margin-left:10px;
+}
+
+#Mercy2{
+  float:right;
+  width:175px;
+  height:200px;
+  margin-right:10px;
+}
+
+#Mercy1 img{
+  margin-top:3px;
+  width:160px;
+  height:165px;
+  background-color:paleturquoise;
+  border-style:groove;
+  border-color:black;
 }
 
 #Hero7{
   clear:both;
   float:left;
   width:375px;
-  height:200px;
+  height:240px;
   margin-top:20px;
   margin-left:35px;
-  background-color:yellow;
+  background-color:dodgerblue;
+}
+
+#Moira1{
+  float:left;
+  text-align:center;
+  margin-top:10px;
+  margin-left:10px;
+}
+
+#Moira2{
+  float:right;
+  width:175px;
+  height:200px;
+  margin-right:10px;
+}
+
+#Moira1 img{
+  margin-top:3px;
+  width:160px;
+  height:165px;
+  background-color:paleturquoise;
+  border-style:groove;
+  border-color:black;
 }
 
 #Hero8{
   float:right;
   width:375px;
-  height:200px;
+  height:240px;
   margin-top:20px;
   margin-right:35px;
-  background-color:yellow;
+  background-color:dodgerblue;
+}
+
+#Zenyatta1{
+  float:left;
+  text-align:center;
+  margin-top:10px;
+  margin-left:10px;
+}
+
+#Zenyatta2{
+  float:right;
+  width:175px;
+  height:200px;
+  margin-right:10px;
+}
+
+#Zenyatta1 img{
+  margin-top:3px;
+  width:160px;
+  height:165px;
+  background-color:paleturquoise;
+  border-style:groove;
+  border-color:black;
 }
 
 #FooterWrapper{
@@ -150,7 +336,10 @@ img{
   float:left;
   margin-left:30px;
   margin-top:10px;
-  background-color:cyan;
+  background-color:lightyellow;
+  color:black;
+  border-style: groove;
+  border-color: black;
 }
 
 #Damage{
@@ -158,9 +347,12 @@ img{
   width:240px;
   height:80px;
   float:left;
-  margin-left:40px;
+  margin-left:30px;
   margin-top:10px;
-  background-color:cyan;
+  background-color:lightyellow;
+  color:black;
+  border-style: groove;
+  border-color: black;
 }
 
 #Back{
@@ -170,5 +362,8 @@ img{
   float:right;
   margin-right:30px;
   margin-top:10px;
-  background-color:cyan;
+  background-color:lightyellow;
+  color:black;
+  border-style: groove;
+  border-color: black;
 }
