@@ -397,7 +397,7 @@ img{
 #Damage{
   text-align:center;
   width:240px;
-  height:80px;
+  height:50px;
   float:left;
   margin-left:30px;
   margin-top:10px;
@@ -410,7 +410,7 @@ img{
 #Support{
   text-align:center;
   width:240px;
-  height:80px;
+  height:50px;
   float:left;
   margin-left:30px;
   margin-top:10px;
@@ -423,7 +423,7 @@ img{
 #Back{
   text-align:center;
   width:240px;
-  height:80px;
+  height:50px;
   float:right;
   margin-right:30px;
   margin-top:10px;
@@ -431,4 +431,9 @@ img{
   color:black;
   border-style: groove;
   border-color: black;
+}
+
+#FooterWrapper span{
+  padding-top:30px;
+  font-size:20px;
 }
