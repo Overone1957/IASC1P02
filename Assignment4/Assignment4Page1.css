@@ -10,14 +10,21 @@ body{
 }
 
 #topbutton{
+  width:40px;
+  height:60px;
   position:fixed;
   right:123px;
-  bottom:8px;
+  bottom:0px;
 }
 
-#topbutton img{
+#sideimg1{
   width:40px;
-  height:20px;
+  height:10px;
+}
+
+#sideimg2{
+  width:40px;
+  height:40px;
 }
 
 #headerWrapper{
