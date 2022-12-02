@@ -1,3 +1,3 @@
 function Submit(){
-  alert("Thanks for your feedback!")
+  alert("Thanks for your feedback!")；
 }
