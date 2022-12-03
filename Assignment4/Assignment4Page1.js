@@ -1,13 +1,17 @@
-document.getElementById("gray").style.color="gray";
-document.getElementById("lightskyblue").style.color="lightskyblue";
+function lightmode(){
+  document.getElementById("wrapper").style.backgroundColor = "lightskyblue";
+  document.getElementById("headerWrapper").style.backgroundColor = "orange";
+  document.getElementById("headerMid").style.backgroundColor = "orange";
+  document.getElementById("headerRight").style.backgroundColor = "orange";
+  document.getElementById("FooterWrapper").style.backgroundColor = "orange";
+}
 
 function darkmode(){
-
-	var first = "#808080";
-	var second = "#87CEFA";
-
-	document.getElementById("gray").style.color=first;
-	document.getElementById("lightskyblue").style.colour=second;
+  document.getElementById("wrapper").style.backgroundColor = "black";
+  document.getElementById("headerWrapper").style.backgroundColor = "DarkSlateGray";
+  document.getElementById("headerMid").style.backgroundColor = "DarkSlateGray";
+  document.getElementById("headerRight").style.backgroundColor = "DarkSlateGray";
+  document.getElementById("FooterWrapper").style.backgroundColor = "DarkSlateGray";
 }
 
 function Welcome(){
