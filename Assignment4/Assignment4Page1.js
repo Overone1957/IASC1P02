@@ -1,3 +1,15 @@
+document.getElementById("gray").style.color="gray";
+document.getElementById("lightskyblue").style.color="lightskyblue";
+
+function darkmode(){
+
+	var first = "#808080";
+	var second = "#87CEFA";
+
+	document.getElementById("gray").style.color=first;
+	document.getElementById("lightskyblue").style.colour=second;
+}
+
 function Welcome(){
   alert ("Welcome to the world of Overwatch!")
 }
@@ -22,16 +34,3 @@ function interval() {
 }
 
 //The codes of web dwell time are cited from https://topic.alibabacloud.com/a/javascript-shows-user-dwell-time_1_24_10001928.html
-
-const btn = document.querySelector('button');
-const videoBox = document.querySelector('div');
-function displayVideo(){
-  if (videoBox.getAttribute('class') === 'hidden'){
-    videoBox.setAttribute('class','showing');
-  }
-}
-
-btn.addEventListener('click', displayVideo);
-videoBox.addEventListener('click', () => videoBox.setAttribute('class', 'hidden'));
-const video = document.querySelector('video');
-video.addEventListener('click', () => video.play());
