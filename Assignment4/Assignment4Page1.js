@@ -14,6 +14,8 @@ function darkmode(){
   document.getElementById("FooterWrapper").style.backgroundColor = "DarkSlateGray";
 }
 
+//The codes of changing background color are cited from https://www.w3schools.com/jsref/prop_style_backgroundcolor.asp
+
 function Welcome(){
   alert ("Welcome to the world of Overwatch!")
 }
