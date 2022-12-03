@@ -22,3 +22,20 @@ function interval() {
 }
 
 //The codes of web dwell time are cited from https://topic.alibabacloud.com/a/javascript-shows-user-dwell-time_1_24_10001928.html
+
+function defineLinkColor(){
+  var linkDOMs = document.getElementsByTagName("a");
+  for(var i=0; i<linkDOMs.length; i++){
+    linkDOMs[i].onmouseover = function(){
+      this.style.color = 'red';
+    }
+    linkDOMs[i].onmouseout = function(){
+      this.style.color = '';
+    }
+  }
+}
+
+function initMouse(){
+  var pDom = document.getElementsByTagName("body")[0];
+  pDom.style.cursor = 'crosshair';
+}
