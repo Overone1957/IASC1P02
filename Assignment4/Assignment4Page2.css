@@ -416,6 +416,7 @@ img{
   color:black;
   border-style: groove;
   border-color: black;
+  text-decoration:underline;
 }
 
 #Support{
@@ -429,6 +430,7 @@ img{
   color:black;
   border-style: groove;
   border-color: black;
+  text-decoration:underline;
 }
 
 #Back{
@@ -442,6 +444,7 @@ img{
   color:black;
   border-style: groove;
   border-color: black;
+  text-decoration:underline;
 }
 
 #FooterWrapper span{
